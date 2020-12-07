@@ -1,7 +1,7 @@
 ### For more information see [leetcode](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/).
 __________________________
 
-[BACK TO MAIN MENU](../)
+[BACK TO MAIN MENU](../README.md)
 
 ### TASK
 
