@@ -1,7 +1,8 @@
 # Leetcode solutions
 
 ### Tasks:
-1. [Fancy Sequence](./FancySequence/README.md)
-2. [Self Crossing](./SelfCrossing/README.md)
+* [Fancy Sequence](./FancySequence/README.md)
+* [Self Crossing](./SelfCrossing/README.md)
+* [Minimum Number of Days to Eat N Oranges](./MinimumNumberOfDaysToEatNOranges/)
 
 For more information see [https://leetcode.com](https://leetcode.com). 
