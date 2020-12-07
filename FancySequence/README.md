@@ -1,4 +1,4 @@
-###For more information see [leetcode](https://leetcode.com/problems/fancy-sequence/).
+### For more information see [leetcode](https://leetcode.com/problems/fancy-sequence/).
 __________________________
 
 [BACK TO MAIN MENU](../README.md)
