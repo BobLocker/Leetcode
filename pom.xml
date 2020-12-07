@@ -12,6 +12,7 @@
         <module>FancySequence</module>
         <module>SelfCrossing</module>
         <module>MinimumNumberOfDaysToEatNOranges</module>
+        <module>TextJustification</module>
     </modules>
 
     <properties>
